@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>PRIMEIRO SITE DO 1B</title>
+  </head>
+  <body>
+    <p>Esta funcionando</p>
+    <img src="https://res.cloudinary.com/buzzfeed-brasil/image/upload/q_auto,f_auto/image-uploads/subbuzz-images/png/a059efe553385c07e5228c0418ad999e.png">
+    <fieldset>
+      <legend>CADASTRO:</legend>
+    usuario:<input type="text" placeholder="usuario">
+    senha: <input type="password" placeholder="senha">
+    <button>cadastrar</button>
+    </fieldset>
+  </body>
+</html>
